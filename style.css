@@ -1,4 +1,9 @@
 body {
   background-color: lightskyblue;
-  color: cadetblue;
+  text-align: center;
+}
+
+li {
+  text-align: center;
+  list-style-type: none;
 }
