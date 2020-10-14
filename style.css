@@ -7,3 +7,16 @@ li {
   text-align: center;
   list-style-type: none;
 }
+.box1 {
+  height: 100px;
+  width: 150px;
+  border: 2px solid green;
+  position: absolute;
+}
+.box2 {
+  height: 100px;
+  width: 150px;
+  border: 2px solid green;
+  position: relative;
+  float: right;
+}
