@@ -16,3 +16,11 @@ while (count < 5) {
   console.log("Loop in ", count);
   count++;
 }
+
+
+//Do while
+let countt = 4
+do{
+  console.log('Now loop is',countt)
+  countt++;
+}while(countt < 5)
